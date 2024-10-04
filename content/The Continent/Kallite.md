@@ -1,0 +1,7 @@
+The rare and mysterious Kallite is the cornerstone resource of economic growth and militaristic feud on the Continent. Its remarkable hardness and myriad uses in agriculture and spell research makes it a common source of conflict between the Continent's three major nations.
+
+While indeed a rare resource, Kallite is, surprisingly, a renewable resource on the Continent. In its natural form, a Kallite node appears as a blue orb at the top of a thin pedestal. It sweats a blue blue fluid that pools on the ground and spreads like vines outward from the main node. Each node sustains exactly 6 such vines. After travelling sufficient distance, these kallite vines will pool themselves, eventually creating a new pedestals and new nodes that will continue their own growth. 
+
+It is the fully formed nodes that are ultimately the material mined and used by the various nations on the continent. Mysteriously, Kallite in its liquid form evaporates almost immediately upon being removed from its vine path.
+
+It is lost to history when exactly the reproducing nature of the material was discovered. A century of ignorant overmining and over-reliance on the resource has led to all nations on the continent failing to find a sustainable equilibrium with it. It is only with great efforts to restrict its distribution within the three nations that they have managed to reach a point of slow decline close to sustainable use. And along with that, a tenuous peace on the continent.
