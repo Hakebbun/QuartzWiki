@@ -11,4 +11,9 @@ Flaw:
 
 Bonds:
 	A greedy family expanded their land into the family's old land. I suspect this development resulted in the destruction of a local bear's den. I tracked them down to the markets in Sysam and set up my stall next to them. Our vegetables always outsell theirs - i take care to cultivate them with druidic magic, but I keep that a secret from them
-	[[Cirrostratus Aurora]] was a neighbour 
+	[[Cirrostratus Aurora]] was a neighbour before Nadine's family left central [[Latres]]. Nadine's family provided donation to [[Cirrostratus Aurora]]'s tuition collection, believing that a University graduated Scholar could be the key to a united [[Latres]]
+
+Goals:
+	Find a well paying job for a windfall (Short)
+	Make enough money to get the family back on their feet (Medium)
+	Reunite bear companion with their family (Medium)
