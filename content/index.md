@@ -1,7 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Continent
 ---
-
-
-
-hope this works now
