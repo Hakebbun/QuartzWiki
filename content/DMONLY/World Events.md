@@ -1,0 +1,13 @@
+- An attack on the caravans awaiting processing at Checkpoint 2
+	- What are they trying to steal?
+		- Trying to place a a bomb? A portkey?
+		- Transporting a Kallite bloom? That will transform?
+	- How many groups are associated?
+		- Stratus's family hires one group
+		- Kallyx and Bun's driver knows about it
+		- The Guard pushing Balthier knows
+		- The Shady Shopper knows
+	- 
+
+- The Continent is mirrored? - the Fang mirrors the Crater?
+- The Fang blooms

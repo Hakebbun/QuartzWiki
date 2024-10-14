@@ -1,0 +1,5 @@
+- Did the party capture anyone?
+- Daikon contain smuggled Kallite
+- Nobody gets in or out of the lower city until further notice
+	- Was this the goal of the Guard captain? Lock down the lower city for a while?
+- Poisoner or Latresian points out that they all ran towards the fight when everyone else ran away
