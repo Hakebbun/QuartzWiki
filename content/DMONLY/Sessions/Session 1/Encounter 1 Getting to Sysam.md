@@ -11,6 +11,8 @@
 - Need character info for the parents
 	- I like the characters calling her Jewel or something
 
+
+
 **Mr Bun**- Ideally I seed this to be post Kallyx. 
 - Scene takes place on a caravan. He rides at the front with the driver. 
 - Say he's been hired on as a bodyguard, but want to drop that another party is paying way more  to ensure that the shipment makes it into Sysam. 
@@ -55,3 +57,8 @@
 
 
 Montage ends with everybody passing through Checkpoint 1 without issue, but getting blocked at Checkpoint 2
+
+
+
+
+Orsa
